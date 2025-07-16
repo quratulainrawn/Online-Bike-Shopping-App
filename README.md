@@ -31,11 +31,6 @@ Home Screen	Product Details	Cart
 
 🚀 How to Run
 1️⃣ Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/online-bike-shopping-app.git
 2️⃣ Open in Android Studio.
 3️⃣ Connect your emulator/physical device.
 4️⃣ Click Run to launch the app.
